@@ -1,0 +1,243 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/vitalya/Programming/Pads/game/assets/" . "levels/")
+ ("/home/vitalya/.emacs.d/" . "python-el/")
+ ("/home/vitalya/Programming/Pads/game/" . "scenes/")
+ ("/home/vitalya/Programming/Pads/" . "game/")
+ ("/home/vitalya/Programming/" . "Pads/")
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/" . "Assets/")
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/" . "Game/")
+ ("/home/vitalya/Downloads/Pads/game/" . "assets/")
+ ("/home/vitalya/Downloads/librevault/contrib/" . "dir_monitor/")
+ ("/home/vitalya/Downloads/librevault/" . "contrib/")
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/" . "game-programming-python-pygame/")
+ ("/home/vitalya/Downloads/Pads/pygame-1.9.1release/" . "src/")
+ ("/home/vitalya/Downloads/Pads/" . "game/")
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/" . "5-python-pygame-exercise-files/")
+ ("/home/" . "vitalya/")
+ ("/home/vitalya/Downloads/defense/" . "Objects/")
+ ("/home/vitalya/Programs/Project-csv-lines/" . "data/")
+ ("/home/vitalya/Programs/" . "Project-csv-lines/")
+ ("/home/vitalya/Downloads/pyskool-1.2.1/" . "pyskool/")
+ ("/home/vitalya/Downloads/" . "Pads/")
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/" . "actor/")
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/" . "scene/")
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/" . "rooms/")
+ ("/home/vitalya/Projects/Project-csv-lines/" . "report/")
+ ("/home/vitalya/Projects/Der-leben-des-anderes/" . "engine/")
+ ("/home/vitalya/Projects/" . "Der-leben-des-anderes/")
+ ("/home/vitalya/" . "Programming/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/vitalya/Programming/Pads/game/"
+ "/home/vitalya/Programming/Pads/game/scenes/"
+ "/home/vitalya/.emacs.d/"
+ "/home/vitalya/Programming/Pads/game/shared/"
+ "/home/vitalya/Programming/Pads/game/assets/levels/"
+ "/home/vitalya/"
+ "/home/vitalya/Programming/Pads/game/bricks/"
+ "/home/vitalya/Programming/Pads/"
+ "/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Scenes/"
+ "/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Bricks/"
+ "/home/vitalya/Downloads/Pads/game/"
+ "/home/vitalya/Downloads/Pads/"
+ "/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/"
+ "/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Shared/"
+ "/home/vitalya/Downloads/librevault/src/nodedb/"
+ "/home/vitalya/Downloads/pycodestyle/"
+ "/home/vitalya/Downloads/Pads/pygame_of_mine/examples/"
+ "/home/vitalya/Downloads/Pads/pygame_of_mine/"
+ "/home/vitalya/Downloads/Pads/pygame-1.9.1release/src/"
+ "/home/vitalya/Downloads/Pads/pygame-1.9.1release/test/"
+ "/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/2-python-pygame-exercise-files/"
+ "/home/vitalya/Downloads/MineSweeper/src/mineSweeper/"
+ "/home/vitalya/Downloads/defense/Objects/"
+ "/home/vitalya/Downloads/defense/"
+ "/home/vitalya/Downloads/defense/Patterns/"
+ "/home/vitalya/Programs/Project-csv-lines/data/"
+ "/home/vitalya/Programs/Project-csv-lines/"
+ "/home/vitalya/Downloads/laff/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/geometry/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/objects/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/sprites/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/actor/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/game/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/abstract/"
+ "/home/vitalya/Downloads/pyskool-1.2.1/pyskool/"
+ "/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/"
+ "/home/vitalya/Projects/Project-csv-lines/report/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Ball.py"
+ "Pad.py"
+ "Scene.py"
+ "MenuScene.py"
+ "PlayingGameScene.py"
+ "Breakout.py"
+ "init.el"
+ "GameConstants.py"
+ "Level.py"
+ "level1.dat"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/vitalya/Programming/Pads/game/" (22457 45667 469936 135000) "Ball.py" "__pycache__/" "scenes/" "bricks/" "shared/" "assets/" "../" "Highscore.py" "./" "Pad.py" "Breakout.py" "__init__.py" "Level.py")
+
+ ("/home/vitalya/Programming/Pads/game/scenes/" (22457 47456 285897 359000) "__pycache__/" "MenuScene.py" "PlayingGameScene.py" "Scene.py" "../" "./" "__init__.py" "GameOverScene.py" "HighscoreScene.py")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Shared/" (22445 27304 696094 313000) "GameObject.py" "../" "./" "__init__.py" ".GameObject.py.swp" "GameConstants.py" "#GameObject.py#")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Bricks/" (22448 1086 884353 147000) "Brick.py" "LifeBrick.py" "SpeedBrick.py" "../" "#__init__.py#" "./" "__init__.py")
+
+ ("/home/vitalya/Programming/Pads/" (22457 42997 869573 778000) ".gitignore" "game/" "highscore.dat" "start.py" "../" "TODO" "./" ".git/")
+
+ ("/home/vitalya/Programming/Pads/game/bricks/" (22457 42997 868573 757000) "__pycache__/" "Brick.py" "LifeBrick.py" "SpeedBrick.py" "../" "./" "__init__.py")
+
+ ("/home/vitalya/" (22457 42103 706802 182000) ".viminfo" "1.txt" ".gphoto/" "output.pdf" ".pki/" "Vospominaniya.avi" ".swo" ".swp" "Videos/" ".mozilla/" ".ICEauthority" ".node_repl_history" ".#Телефон_пзк" ".local/" "Downloads/" "Programs/" ".vimrc" ".kde/" "../" ".tmux.conf" "Desktop/" "Programming/" ".python_history" "./" ".config/" ".wget-hsts" "VirtualBox VMs/" ".lesshst" ".cache/" ".bash_history" ".thumbnails/" "Calibre Library/" ".npm/" ".bashrc" ".godot/" ".fonts/" ".Xdefaults" "bin/" ".gimp-2.8/" ".themes/" ".emacs.d/" ".octave_hist" "Pictures/" ".gnome/" ".gnupg/" "Documents/" ".ssh/" "Public/" ".bash_logout" "Templates/" "Music/" ".esd_auth" ".bash_profile" ".android/")
+
+ ("/home/vitalya/Programming/Pads/game/assets/levels/" (22457 42997 866573 715000) "../" "./" "level1.dat" "level0.dat")
+
+ ("/home/vitalya/Programming/Pads/game/shared/" (22457 42997 869573 778000) "__pycache__/" "GameObject.py" "../" "./" "__init__.py" "GameConstants.py")
+
+ ("/home/vitalya/.emacs.d/" (22457 38916 122858 199000) "session.10b5eaf547ea5826c147002606184304200000012470088" "session.1066a8dcade5ac7ac147080786050363500000013900051" "session.1044ec8efef261ea52146911844238256400000012350115" "session.10de28e488aa42d5ae145418032665604000000018630058" "session.108b8040f19020ac21146512092314509400000017240050" "init.el" "session.10d38f4418ef38c9a614714122804483000000016190038" "session.1052e958972f647b7014701443029439100000012550037" "session.1053aa25f029501f4c14695121554363700000020450053" "session.10bd3b47312b49b9c8146684943855657100000013770127" "eshell/" "session.10798ae0ffc7173359146764039235090500000013520047" "session.10b49b9c167afd9157145535969567898700000018570130" "python-el/" "session.10136563185f7d241144954728374181000000018210041" "session.10a33c71e1c0ea6120145424763542623000000018650038" "session.10bd3b47312b49b9c8146684943050785900000013770126" "recentf" "../" "#ido.last#" "helm/" "session.10bbc9d73d6a29f738147134059346196200000014160086" "./" "emacs-async/" "session.10a00218cb2d44d2145600752443028400000020280064" "session.102361a117a92455cb147115321753177600000036130084" "session.106c0bfb603c43c0fb147167234834020400000014130050" "session.103e6bd45ca22a205145448539042474100000018440034" "ido.last" "auto-save-list/" "session.109c6b2fc3bdf37938145799261537926100000015990078" "session.1058f57a7073c5022c146849146159653400000012820041" "session.10da8657729096ab67145974048371641400000015830049" "#recentf#" "session.10d06ad5a9a739a803145879061137703000000016080039" "session.102c75aa012f682f5d14683083982120700000012260043" "project-i/" "session.108ce4f821344a8018145448232733427800000018820070")
+
+ ("/home/vitalya/Programming/Pads/game/assets/" (22454 39882 538749 563000) "life.png" "highscore.png" "ball.png" "../" "speed.png" "levels/" "./" "standard.png" "pad.png")
+
+ ("/home/vitalya/.emacs.d/python-el/" (22453 20297 296169 440000) "t/" "emacs3.py" "../" "python.el" "./" "emacs2.py" "emacs.py" "README.rst" ".git/")
+
+ ("/home/vitalya/Programming/" (22448 1108 797771 866000) "Pads/" "../" "./" "3DModeler/")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Assets/" (21168 13068 0 0) "life.png" "highscore.png" "ball.png" "GameOver.wav" "Levels/" "ExtraLife.wav" "../" "speed.png" "WallBounce.wav" "./" "PadBounce.wav" "SpeedUp.wav" "standard.png" "menu.png" "pad.png" "BrickHit.wav")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/Scenes/" (21168 13068 0 0) "MenuScene.py" "PlayingGameScene.py" "Scene.py" "../" "./" "__init__.py" "GameOverScene.py" "HighscoreScene.py")
+
+ ("/home/vitalya/Programming/Pads/game/breaks/" (22446 44076 863876 302000) "../" "./" "__init__.py")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/Game/" (22445 27304 695094 294000) "Ball.py" "Bricks/" "../" "Highscore.py" "#Highscore.py#" "./" "Pad.py" "Shared/" "Assets/" "Breakout.py" "__init__.py" "Level.py" "Scenes/")
+
+ ("/home/vitalya/Downloads/Pads/game/assets/" (22444 4845 252146 62000) "life.png" "ball.png" "../" "speed.png" "./" "standard.png")
+
+ ("/home/vitalya/Downloads/Pads/game/" (22445 26411 528836 895000) "Ball.py" "__pycache__/" "scenes/" "bricks/" "shared/" "assets/" "../" "Highscore.py" "./" "Pad.py" "Ball.pyc" "__init__.pyc" "Breakout.py" "__init__.py" "Level.py")
+
+ ("/home/vitalya/Downloads/Pads/" (22445 26359 284832 502000) "game/" "start.py" "../" "./" ".git/")
+
+ ("/home/vitalya/Downloads/Pads/game/shared/" (22445 25858 447203 877000) "__pycache__/" "GameObject.py" "../" "./" "__init__.py" "GameConstants.py")
+
+ ("/home/vitalya/Downloads/Pads/game/__pycache__/" (22445 25616 310598 1000) "Ball.cpython-35.pyc" "__init__.cpython-35.pyc" "../" "./")
+
+ ("/home/vitalya/Downloads/pycodestyle/" (22442 48897 374059 917000) "../" "#pep8.py#" "./" "pep8.py" ".git/")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/5-python-pygame-exercise-files/" (22435 42843 622818 597000) "setup.doc" "../" "./" "Game/")
+
+ ("/home/vitalya/Downloads/librevault/src/nodedb/" (22444 58393 334490 432000) "NodeDB.h" "UDPLPD.cpp" "UDPLPD.h" "../" "NodeDB.cpp" "./")
+
+ ("/home/vitalya/Downloads/librevault/src/" (22444 58393 334490 432000) "version.h" "../" "./" "nodedb/" "UDPLPD.proto")
+
+ ("/home/vitalya/Downloads/librevault/contrib/dir_monitor/" (22444 58257 907899 829000) "../" "./")
+
+ ("/home/vitalya/Downloads/librevault/contrib/" (22444 58280 38323 167000) "dir_monitor/" "../" "./")
+
+ ("/home/vitalya/Downloads/librevault/" (22444 58280 41323 224000) "CMakeLists.txt" "cmake/" "../" ".gitmodules" "./" "contrib/" ".git/")
+
+ ("/home/vitalya/Downloads/" (22444 58250 885765 501000) "Elvis_and_Nixon_2016_BDRip_[rutracker.org].avi" "win64_153804.exe" "adwcleaner_5.201.exe" "Pads/" "CrystalDiskInfo7_0_0.zip" "6_2_3_1_PDF.pdf" "Stranger Than Fiction (2006)/" "Windows_10_default_file_associations.zip" "NAS4Free-x64-LiveCD-10.3.0.3.2898.iso" "OriginThinSetup.exe" "OriginThinSetup.exe.crdownload" "Заполнение Образец Ф-4/" "OriginThinSetup (1).exe.crdownload" "[rutracker.org].t5234473.torrent" "FRST64.exe" "actress.xcf" "[rutracker.org].t4381586.torrent" "Agatha Christie's Poirot/" "intel_chipse_9_w10.zip" "1729947,ZHnoDM6IcTt_Vg24MIZ1XGy86lELKQYaAajygOTY_lZ0RBN5mzBRRxQi6UMyhfhYngDK1tyCq69kIE0Vls0ppQ==.jpg" "ttf-monaco/" "librevault/" "pycodestyle/" "intel_me10_mb.zip" "Game Programming with Python and PyGame/" "../" "./")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/2-python-pygame-exercise-files/" (22441 26814 202035 722000) "Demo4.py" "Demo3.py" "setup.doc" "#Demo6.py#" "Pluralsight.wav" "../" "PS circle.png" "Demo5.py" "./" "Demo1.py" "Demo6.py" "Demo2.py")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/4-python-pygame-exercise-files/" (22435 42843 611818 372000) "setup.doc" "GameObject.py" "Pluralsight.wav" "../" "PS circle.png" "./" "Demo1.py")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/02. Hello World in PyGame/" (22416 17640 596978 282000) "04. Stay within the bounds, lets bounce around!.wmv" "03. Moving things on the screen.wmv" "08. Summary.wmv" "../" "./" "07. Using the keyboard inside the application.wmv" "01. Introduction.wmv" "05. Using the mouse inside the application.wmv" "02. Hello World.wmv" "06. Showing images and playing sounds.wmv")
+
+ ("/home/vitalya/Downloads/Pads/pygame_of_mine/examples/" (22440 7689 774133 553000) "__pycache__/" "mask.py" "arraydemo.py" "pixelarray.py" "midi.py" "overlay.py" "moveit.py" "testsprite.py" "aacircle.py" "fonty.py" "blend_fill.py" "sound.py" "scrap_clipboard.py" "aliens.py" "playmus.py" "cursors.py" "oldalien.py" "scroll.py" "fastevents.py" "freetype_misc.py" "stars.py" "../" "chimp.py" "sound_array_demos.py" "prevent_display_stretching.py" "glcube.py" "./" "macosx/" "camera.py" "__init__.py" "data/" "eventlist.py" "liquid.py" "blit_blends.py" "scaletest.py" "vgrade.py" "headless_no_windows_needed.py")
+
+ ("/home/vitalya/Downloads/Pads/pygame_of_mine/" (22440 7689 798134 13000) "ftfont.py" "__pycache__/" "_dummybackend.py" "midi.py" "macosx.py" "pygame_icon.bmp" "scrap.cpython-35m-x86_64-linux-gnu.so" "freesansbold.ttf" "pygame_icon.svg" "mixer_music.cpython-35m-x86_64-linux-gnu.so" "sndarray.py" "newbuffer.cpython-35m-x86_64-linux-gnu.so" "locals.py" "threads/" "key.cpython-35m-x86_64-linux-gnu.so" "pixelarray.cpython-35m-x86_64-linux-gnu.so" "pixelcopy.cpython-35m-x86_64-linux-gnu.so" "readme.html" "cursors.py" "bufferproxy.cpython-35m-x86_64-linux-gnu.so" "_camera.cpython-35m-x86_64-linux-gnu.so" "event.cpython-35m-x86_64-linux-gnu.so" "../" "font.cpython-35m-x86_64-linux-gnu.so" "overlay.cpython-35m-x86_64-linux-gnu.so" "LGPL" "base.cpython-35m-x86_64-linux-gnu.so" "surfarray.py" "./" "imageext.cpython-35m-x86_64-linux-gnu.so" "draw.cpython-35m-x86_64-linux-gnu.so" "joystick.cpython-35m-x86_64-linux-gnu.so" "freetype.py" "pygame_icon.tiff" "pygame_icon.icns" "examples/" "gp2x/" "mouse.cpython-35m-x86_64-linux-gnu.so" "camera.py" "mask.cpython-35m-x86_64-linux-gnu.so" "constants.cpython-35m-x86_64-linux-gnu.so" "color.cpython-35m-x86_64-linux-gnu.so" "pygame.ico" "surface.cpython-35m-x86_64-linux-gnu.so" "__init__.py" "fastevent.cpython-35m-x86_64-linux-gnu.so" "_numpysurfarray.py" "_numpysndarray.py" "pkgdata.py" "rwobject.cpython-35m-x86_64-linux-gnu.so" "install.html" "colordict.py" "_camera_vidcapture.py" "time.cpython-35m-x86_64-linux-gnu.so" "image.cpython-35m-x86_64-linux-gnu.so" "gfxdraw.cpython-35m-x86_64-linux-gnu.so" "surflock.cpython-35m-x86_64-linux-gnu.so" "transform.cpython-35m-x86_64-linux-gnu.so" "sysfont.py" "mixer.cpython-35m-x86_64-linux-gnu.so" "version.py" "cdrom.cpython-35m-x86_64-linux-gnu.so" "rect.cpython-35m-x86_64-linux-gnu.so" "_camera_opencv_highgui.py" "docs/" "math.cpython-35m-x86_64-linux-gnu.so" "tests/" "sprite.py" "display.cpython-35m-x86_64-linux-gnu.so" "compat.py")
+
+ ("/home/vitalya/Downloads/Pads/pygame-1.9.1release/src/" (19066 39161 0 0) "font.doc" "surflock.c" "color.doc" "bitmask.c" "sdlmain_osx.m" "pygamedocs.h" "scrap.doc" "mixer.h" "gfxdraw.c" "font.h" "time.doc" "pygame.doc" "imageext.c" "transform.doc" "key.doc" "scale_mmx.c" "pgarrinter.h" "display.doc" "rwobject.c" "overlay.doc" "constants.c" "event.doc" "mask.c" "pygame.h" "pgcompat.h" "surface.h" "image.c" "_numericsndarray.c" "pixelarray.doc" "rotozoom.c" "_numericsurfarray.c" "camera.h" "scrap_win.c" "draw.doc" "mask.doc" "scrap_x11.c" "fastevent.c" "../" "bufferproxy.c" "bitmask.h" "overlay.c" "scrap_qnx.c" "rect.c" "fastevents.h" "alphablit.c" "SDL_gfx/" "scrap.c" "rect.doc" "./" "key.c" "movie.doc" "transform.c" "event.c" "scrap.h" "numeric_arrayobject.h" "image.doc" "font.c" "surface_fill.c" "camera.doc" "pixelarray.c" "joystick.c" "time.c" "gfxdraw.doc" "pypm.c" "scrap_mac.c" "_arraysurfarray.c" "scale2x.c" "cdrom.c" "mouse.doc" "fastevents.c" "scale_mmx64.c" "surface.doc" "ffmovie.h" "scale_mmx32.c" "cdrom.doc" "camera_v4l.c" "display.c" "mixer.c" "scale.h" "pgopengl.h" "joystick.doc" "_camera.c" "mask.h" "base.c" "pypm.pyx" "surface.c" "pixelarray_methods.c" "color.c" "music.c" "ffmovie.c" "mouse.c" "camera_v4l2.c" "mixer.doc" "music.doc" "movie.c" "draw.c")
+
+ ("/home/vitalya/Downloads/Pads/pygame-1.9.1release/test/" (19066 39161 0 0) "surface_test.py" "threads_tags.py" "color_test.py" "cursors_test.py" "surfarray_test.py" "base_test.py" "util/" "surflock_test.py" "mouse_test.py" "joystick_test.py" "sysfont_test.py" "cdrom_tags.py" "run_tests__tests/" "display_test.py" "time_test.py" "threads_test.py" "sndarray_tags.py" "sprite_test.py" "test_utils/" "draw_test.py" "__main__.py" "transform_test.py" "pixelarray_test.py" "image_test.py" "gfxdraw_test.py" "README.TXT" "font_test.py" "../" "scrap_tags.py" "midi_test.py" "./" "movie_tags.py" "image__save_gl_surface_test.py" "rect_test.py" "bufferproxy_test.py" "__init__.py" "mixer_test.py" "mask_test.py" "blit_test.py" "key_test.py" "fastevent_test.py" "test_test_.py" "event_test.py" "sndarray_test.py" "overlay_test.py" "movie_test.py" "scrap_test.py" "fixtures/" "mixer_music_test.py" "cdrom_test.py" "surfarray_tags.py")
+
+ ("/home/vitalya/Downloads/Pads/pygame-1.9.1release/" (19066 39161 0 0) "PKG-INFO" "make_prebuilt.py" "check_test.py" "setup.cfg" "MANIFEST.in" "test/" "Setup.in" "msys_link_VC_2008_dlls.py" "readme.html" "Setup_Win_Common.in" "bundle_docs.py" "WHATSNEW" "../" "README.txt" "msys_build_deps.py" "msys.py" "LGPL" "msysio.py" "config_darwin.py" "dll.py" "./" "mingwcfg.py" "config_win.py" "mingw32ccompiler.py" "makeref.py" "examples/" "setup.py" "bdist_mpkg_support.py" "distutils_mods.py" "config_unix.py" "config_msys.py" "lib/" "mingw32distutils.py" "Setup_Darwin.in" "install.html" "run_tests.py" "src/" "docs/" "pygame.egg-info/" "setup_win_common.py" "config.py")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/" (22435 42843 597818 86000) "01. What is PyGame/" "04. Setting up the Architecture of the Game/" "05. Creating the Game Objects/" "03. From Idea to Game, Collecting all Ideas and Resources/" "08. Finalizing the Game/" "game-programming-python-pygame/" "../" "./" "07. Creating Random Levels/" "06. Creating the Game Logics/" "02. Hello World in PyGame/" "game-programming-python-pygame.zip")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/" (22435 42843 672819 619000) "6-python-pygame-slides.pdf" "4-python-pygame-exercise-files/" "7-python-pygame-slides.pdf" "1-python-pygame-slides.pdf" "2-python-pygame-slides.pdf" "4-python-pygame-slides.pdf" "8-python-pygame-exercise-files/" "8-python-pygame-slides.pdf" "../" "./" "5-python-pygame-exercise-files/" "6-python-pygame-exercise-files/" "1-python-pygame-exercise-files/" "3-python-pygame-slides.pdf" "7-python-pygame-exercise-files/" "5-python-pygame-slides.pdf" "2-python-pygame-exercise-files/")
+
+ ("/home/vitalya/Downloads/Game Programming with Python and PyGame/game-programming-python-pygame/1-python-pygame-exercise-files/" (22435 42843 603818 209000) "Demo4.py" "Demo3.py" "setup.doc" "../" "Demo5.py" "./" "Demo1.py" "Demo2.py")
+
+ ("/home/vitalya/Downloads/MineSweeper/src/mineSweeper/" (22429 41703 571321 860000) "Main.java" "#World.java#" "World.java" "../" "./" "Tile.java" "Frame.java" ".#World.java" "ImageLoader.java")
+
+ ("/home/vitalya/Downloads/MineSweeper/" (22429 40695 290975 186000) ".settings/" ".project" ".classpath" "../" "./" "bin/" "src/")
+
+ ("/home/vitalya/Downloads/MineSweeper/src/" (21956 22992 0 0) "gfx/" "../" "./" "mineSweeper/")
+
+ ("/home/" (22377 36203 719275 513000) "../" "./" "lost+found/" "vitalya/")
+
+ ("/home/vitalya/Downloads/defense/Objects/" (22428 59565 866144 780000) "Tower.cs" "Base.cs" "GameObject.cs" "TileRed.cs" "Tile.cs" "ProjectileTower.cs" "SlowTower.cs" "../" "TileGreen.cs" "./" "Projectile.cs" "Enemy.cs")
+
+ ("/home/vitalya/Downloads/defense/Patterns/" (22428 59565 866144 780000) "../" "Singleton.cs" "./")
+
+ ("/home/vitalya/Downloads/defense/" (22428 59565 881145 72000) ".gitignore" "Pathfinder.cs" "Game.ico" "PhysicsManager.cs" "defense-mac.sln" "Patterns/" "defense-xna.sln" "Icon.ico" "THANKS.md" "defense-mono.csproj" "LICENSE" "Content/" "Balance.cs" "Program-Mac.cs" "SoundManager.cs" "../" "GameThumbnail.png" "./" "Camera.cs" "GlobalDefines.cs" "InputManager.cs" "Program-XNA.cs" "Info.plist" "defense-xna.csproj" "Localization.cs" "defense-mono.sln" "README.md" "Game1.cs" "DebugDefines.cs" "Level.cs" "UI/" "Utils/" "Objects/" "defense-mac.csproj" "GameState.cs" "XNAContent/" ".git/" "Graphics/" "Properties/" "Program-Mono.cs")
+
+ ("/home/vitalya/Programs/Project-csv-lines/data/" (22422 22564 236885 803000) "new.csv" "../" "./" "жнвлс_майmolsExport_2016-07-23_135911.csv" "new_new.csv" "numbers.txt")
+
+ ("/home/vitalya/Programs/Project-csv-lines/" (22422 22112 673434 164000) "../" "./" "data/" "main.js" ".git/")
+
+ ("/home/vitalya/Programs/" (22422 22111 446406 876000) "tor-browser_en-US/" "Project-csv-lines/" "../" "./")
+
+ ("/home/vitalya/Downloads/dumb/" (22417 6823 975098 994000) "../" "./" ".git/")
+
+ ("/home/vitalya/Downloads/Ozan's UBL/" (22402 17396 979308 977000) "files/" "UNLOCK.bat" "../" "./")
+
+ ("/usr/" (22382 54135 879543 547000) "./" "lib/" "share/" "tmp/" "sbin/" "local/" "src/" "etc/" "../" "lib64/" "games/" "include/" "bin/" "libexec/")
+
+ ("/usr/share/" (22414 37422 770204 131000) "zoneinfo/" "espeak-data/" "qt5/" "opencc/" "gtk-2.0/" "gettext-0.19.8/" "dnsmasq/" "ipxe.efi/" "grub/" "ibus-libzhuyin/" "xsessions/" "libffado/" "gtk-3.0/" "projectM/" "jvm-commmon/" "cups/" "gtk-engines/" "smartmontools/" "evolution/" "mythes/" "web-assets/" "libreoffice/" "augeas/" "color/" "emacs/" "gnome-background-properties/" "tcl8/" "ipxe/" "rpmdevtools/" "file-roller/" "fontconfig/" "libgnomekbd/" "omf/" "libquvi-scripts/" "gnome-shell/" "servicetypes/" "dbus-1/" "qt4/" "groff/" "zenity/" "sushi/" "xmvn/" "alsa/" "shotwell/" "gcc-6.1.1/" "epiphany/" "gcr-3/" "enchant/" "highlight/" "libtimezonemap/" "ibus-kkc/" "webkitgtk-1.0/" "python-dmidecode/" "desktop-directories/" "libthai/" "gvfs/" "libreport/" "libwacom/" "systemtap/" "snmp/" "help/" "autocorr/" "libnm-gtk/" "tabset/" "strigi/" "libexttextcat/" "icons/" "modulefiles/" "gnupg/" "maven-metadata/" "wallpapers/" "gutenprint/" "glusterfs/" "qemu/" "gnome-abrt/" "xemacs/" "anaconda/" "gupnp-dlna-2.0/" "edk2/" "gnuplot/" "pki/" "nmap/" "sounds/" "mpage/" "rhythmbox/" "fonts/" "python-meh/" "hplip/" "telepathy/" "xfce4/" "liblangtag/" "org.gnome.Characters/" "evolution-data-server/" "phonon/" "skk/" "file/" "gnome/" "xml/" "polkit-1/" "media-player-info/" "PackageKit/" "config/" "info/" "pixmaps/" "totem/" "wayland-sessions/" "selinux/" "httpd/" "maven-effective-poms/" "i18n/" "libgphoto2/" "mime/" "defaults/" "evince/" "setools-3.3/" "mx/" "emoticons/" "GraphicsMagick-1.3.24/" "licenses/" "guile/" "iso-codes/" "gdb/" "speech-dispatcher/" "kde-settings/" "google-chrome/" "services/" "sgml/" "cryptui/" "seahorse/" "pibs/" "nano/" "calibre/" "gnome-boxes/" "ibus-libpinyin/" "gtk-doc/" "perl5/" "mousetweaks/" "java-1.6.0/" "doc/" "factory/" "X11/" "metacity/" "webkitgtk-3.0/" "mobile-broadband-provider-info/" "aclocal/" "p11-kit/" "mimelnk/" "ghostscript/" "gedit/" "app-info/" "memtest86+/" "mibs/" "misc/" "grilo-0.3/" "java/" "bash-completion/" "tracker/" "libnma/" "libkkc/" "plymouth/" "ppd/" "fedora-logos/" "langtable/" "caribou/" "ImageMagick-6/" "gnome-vpn-properties/" "java-1.5.0/" "config.kcfg/" "libwmf/" "rygel/" "sgabios/" "pulseaudio/" "maven-fragments/" "seavgabios/" "yelp/" "cmake/" "magic" "openal/" "poppler/" "javazi/" "ibus-hangul/" "liblouis/" "makedumpfile/" "thumbnailers/" "wireshark/" "java-ext/" "fontforge/" "vinagre/" "idl/" "kdump/" "javazi-1.8/" "libvirt/" "games/" "java-utils/" "ibus-typing-booster/" "vlc/" "glade/" "man/" "gimp/" "crypto-policies/" "gnome-tweak-tool/" "maven-poms/" "gnome-user-share/" "eog/" "lorax/" "colord/" "java-1.7.0/" "vim/" "gupnp-av/" "libosinfo/" "keyutils/" "mime-info/" "gstreamer-1.0/" "setroubleshoot/" "locale/" "filezilla/" "abrt/" "strongswan/" "terminfo/" "backgrounds/" "hyphen/" "dconf/" "node/" "gnome-clocks/" "javadoc/" "empty/" "libhangul/" "ibus-rawcode/" "appdata/" "ibus-m17n/" "foomatic/" "system-config-printer/" "os-prober/" "gnome-color-manager/" "hwdata/" "syslinux/" "kmodtool/" "GConf/" "gnome-control-center/" "gettext/" "templates/" "avahi/" "lsb/" "netcf/" "gtksourceview-3.0/" "vala/" "kde4/" "corosync/" "applnk/" "gdm/" "seabios/" "git-core/" "gnome-documents/" "javascript/" "org.gnome.Weather/" "gnome-bluetooth/" "apps/" "redland/" "GeoIP/" "systemd/" "transmission/" "gnome-maps/" "gnome-settings-daemon/" "themes/" "gnome-software/" "octave/" "firewalld/" "lua/" "m17n/" "applications/" "fedora-productimg/" "Modules/" "firstboot/" "awk/" "nm-applet/" "pkgconfig/" "tcl8.6/" "libgweather/" "dict/" "fwupdate/" "ibus/" "gnome-video-effects/" "gst-plugins-bad/" "jvm/" "myspell/" "autostart/" "authconfig/" "gssdp/" "orca/" "glib-2.0/" "texinfo/" "yelp-xsl/" "cracklib/" "grilo-plugins/" "gnome-session/" "mozilla/" "java-1.8.0/" "zsh/" "setuptool/" "open-vm-tools/" "sssd/" "../" "./")
+
+ ("/usr/share/emacs/" (22411 10656 224827 338000) "./" "../" "25.0.95/" "site-lisp/")
+
+ ("/usr/share/emacs/25.0.95/" (22411 10628 202827 792000) "./" "lisp/" "etc/" "../" "site-lisp/")
+
+ ("/usr/share/emacs/25.0.95/lisp/" (22411 10628 202827 792000) "kermit.elc" "image.el.gz" "rfn-eshadow.el.gz" "mouse-drag.elc" "strokes.el.gz" "term/" "hilit-chg.el.gz" "isearchb.elc" "iimage.elc" "files.elc" "indent.elc" "w32-vars.el.gz" "misearch.el.gz" "epa-dired.elc" "tooltip.elc" "jka-cmpr-hook.elc" "windmove.el.gz" "w32-fns.elc" "emacs-lisp/" "filesets.el.gz" "help-mode.el.gz" "dos-fns.el.gz" "thumbs.elc" "ps-bdf.elc" "hippie-exp.el.gz" "ezimage.elc" "descr-text.elc" "tempo.elc" "buff-menu.elc" "xt-mouse.elc" "imenu.elc" "cdl.elc" "skeleton.elc" "bs.el.gz" "delsel.elc" "battery.el.gz" "woman.el.gz" "hfy-cmap.elc" "doc-view.el.gz" "ps-print.el.gz" "wid-browse.elc" "wid-edit.el.gz" "pcmpl-linux.el.gz" "md4.el.gz" "tmm.el.gz" "files-x.elc" "vcursor.elc" "master.el.gz" "master.elc" "pcmpl-rpm.el.gz" "descr-text.el.gz" "epg-config.el.gz" "gs.el.gz" "cus-dep.elc" "server.el.gz" "indent.el.gz" "scroll-all.el.gz" "double.elc" "autorevert.elc" "cus-edit.elc" "files.el.gz" "emacs-lock.elc" "mouse-copy.elc" "cus-start.elc" "pcomplete.el.gz" "allout-widgets.elc" "dirtrack.el.gz" "electric.elc" "info-look.elc" "window.elc" "calculator.elc" "fringe.elc" "image-dired.elc" "tmm.elc" "newcomment.el.gz" "ls-lisp.elc" "echistory.el.gz" "net/" "ruler-mode.elc" "help-fns.el.gz" "sb-image.el.gz" "speedbar.el.gz" "novice.elc" "epa-file.elc" "replace.elc" "emulation/" "reposition.el.gz" "cus-theme.elc" "arc-mode.elc" "international/" "type-break.el.gz" "json.elc" "char-fold.elc" "icomplete.el.gz" "thumbs.el.gz" "epa-file.el.gz" "subr.el.gz" "recentf.elc" "windmove.elc" "soundex.el.gz" "cmuscheme.el.gz" "wdired.elc" "startup.el.gz" "cus-face.elc" "ansi-color.el.gz" "window.el.gz" "align.el.gz" "dynamic-setting.elc" "epa-mail.el.gz" "reveal.elc" "novice.el.gz" "follow.elc" "locate.el.gz" "help-macro.el.gz" "pcmpl-gnu.elc" "cus-face.el.gz" "info-xref.elc" "tar-mode.el.gz" "frame.elc" "hl-line.elc" "rot13.el.gz" "hi-lock.elc" "help-mode.elc" "vcursor.el.gz" "face-remap.elc" "whitespace.el.gz" "chistory.el.gz" "help-fns.elc" "epa-hook.el.gz" "bookmark.elc" "eshell/" "help-macro.elc" "elec-pair.elc" "ps-samp.elc" "type-break.elc" "pcmpl-unix.el.gz" "dos-fns.elc" "xt-mouse.el.gz" "ebuff-menu.elc" "gnus/" "format.el.gz" "find-cmd.el.gz" "font-core.elc" "pcmpl-cvs.elc" "whitespace.elc" "font-lock.elc" "ehelp.elc" "mwheel.el.gz" "tempo.el.gz" "ehelp.el.gz" "ls-lisp.el.gz" "find-file.elc" "generic-x.el.gz" "tooltip.el.gz" "mpc.el.gz" "dom.el.gz" "winner.el.gz" "outline.elc" "filecache.elc" "erc/" "delim-col.elc" "dabbrev.el.gz" "savehist.el.gz" "desktop.el.gz" "rot13.elc" "tool-bar.el.gz" "timezone.el.gz" "delim-col.el.gz" "double.el.gz" "subr.elc" "play/" "hi-lock.el.gz" "elec-pair.el.gz" "loadhist.el.gz" "saveplace.elc" "ps-mule.el.gz" "autorevert.el.gz" "epa-hook.elc" "notifications.elc" "isearchb.el.gz" "saveplace.el.gz" "dired-aux.el.gz" "doc-view.elc" "ibuf-macs.el.gz" "term.elc" "thingatpt.elc" "htmlfontify.elc" "ezimage.el.gz" "dired.el.gz" "pcmpl-gnu.el.gz" "minibuf-eldef.elc" "allout-widgets.el.gz" "talk.elc" "finder.elc" "sort.elc" "xwidget.el.gz" "frameset.elc" "version.el.gz" "COPYING" "menu-bar.el.gz" "paren.el.gz" "dframe.elc" "midnight.elc" "elide-head.elc" "imenu.el.gz" "info-look.el.gz" "epg.el.gz" "term.el.gz" "foldout.el.gz" "rfn-eshadow.elc" "tree-widget.el.gz" "makesum.elc" "macros.el.gz" "mouse-drag.el.gz" "repeat.elc" "mouse.el.gz" "foldout.elc" "hex-util.elc" "scroll-lock.el.gz" "select.elc" "msb.el.gz" "jka-cmpr-hook.el" "proced.el.gz" "vt-control.el.gz" "profiler.elc" "follow.el.gz" "find-lisp.el.gz" "color.elc" "cus-edit.el.gz" "font-core.el.gz" "find-dired.elc" "format.elc" "winner.elc" "proced.elc" "view.elc" "dired.elc" "mh-e/" "man.elc" "hexl.el.gz" "tabify.el.gz" "apropos.elc" "reveal.el.gz" "uniquify.el.gz" "color.el.gz" "case-table.el.gz" "faces.elc" "userlock.el.gz" "sb-image.elc" "shell.el.gz" "thingatpt.el.gz" "cus-dep.el.gz" "generic-x.elc" "kermit.el.gz" "cus-start.el.gz" "misc.elc" "md4.elc" "pcmpl-cvs.el.gz" "image-dired.el.gz" "scroll-lock.elc" "pcmpl-linux.elc" "dired-x.elc" "facemenu.el.gz" "expand.elc" "find-cmd.elc" "midnight.el.gz" "allout.elc" "env.elc" "printing.elc" "find-lisp.elc" "man.el.gz" "frame.el.gz" "paren.elc" "find-dired.el.gz" "w32-vars.elc" "ps-def.el.gz" "misc.el.gz" "time-stamp.el.gz" "comint.el.gz" "mail/" "dired-aux.elc" "dabbrev.elc" "completion.el.gz" "epg-config.elc" "image.elc" "bindings.elc" "ido.elc" "notifications.el.gz" "dom.elc" "hfy-cmap.el.gz" "custom.elc" "desktop.elc" "disp-table.elc" "epa.el.gz" "dos-w32.elc" "repeat.el.gz" "scroll-bar.el.gz" "allout.el.gz" "informat.elc" "isearch.elc" "epa-dired.el.gz" "align.elc" "tool-bar.elc" "flow-ctrl.elc" "ffap.el.gz" "echistory.elc" "face-remap.el.gz" "avoid.elc" "arc-mode.el.gz" "soundex.elc" "hl-line.el.gz" "shadowfile.elc" "icomplete.elc" "informat.el.gz" "scroll-all.elc" "rect.elc" "simple.el.gz" "ps-bdf.el.gz" "skeleton.el.gz" "vt-control.elc" "xwidget.elc" "gs.elc" "tutorial.elc" "strokes.elc" "ses.el.gz" "simple.elc" "format-spec.elc" "macros.elc" "t-mouse.elc" "iimage.el.gz" "custom.el.gz" "wdired.el.gz" "dynamic-setting.el.gz" "jka-compr.el" "hexl.elc" "epa-mail.elc" "ielm.elc" "apropos.el.gz" "forms.elc" "tree-widget.elc" "lpr.el.gz" "ibuffer.el.gz" "filenotify.elc" "dos-w32.el.gz" "disp-table.el.gz" "vc/" "kmacro.elc" "kmacro.el.gz" "delsel.el.gz" "nxml/" "mb-depth.el.gz" "README" "version.elc" "button.elc" "ses.elc" "dos-vars.el.gz" "uniquify.elc" "epg.elc" "case-table.elc" "org/" "filesets.elc" "dirtrack.elc" "autoarg.el.gz" "image-mode.el.gz" "tutorial.el.gz" "image-file.el.gz" "flow-ctrl.el.gz" "shadowfile.el.gz" "locate.elc" "obarray.elc" "avoid.el.gz" "image-file.elc" "loadup.el" "elide-head.el.gz" "mouse.elc" "format-spec.el.gz" "linum.el.gz" "composite.el.gz" "hippie-exp.elc" "obsolete/" "abbrev.elc" "outline.el.gz" "bs.elc" "pcmpl-x.elc" "dnd.elc" "obarray.el.gz" "dframe.el.gz" "composite.elc" "minibuffer.el.gz" "savehist.elc" "vt100-led.el.gz" "register.elc" "w32-fns.el.gz" "jit-lock.elc" "linum.elc" "ielm.el.gz" "wid-edit.elc" "help-at-pt.el.gz" "tar-mode.elc" "completion.elc" "password-cache.el.gz" "ibuf-macs.elc" "dos-vars.elc" "cmuscheme.elc" "isearch.el.gz" "autoinsert.el.gz" "calendar/" "scroll-bar.elc" "wid-browse.el.gz" "ffap.elc" "recentf.el.gz" "replace.el.gz" "ps-samp.el.gz" "makesum.el.gz" "edmacro.el.gz" "xml.el.gz" "view.el.gz" "widget.elc" "info.elc" "xml.elc" "calc/" "jit-lock.el.gz" "time.el.gz" "printing.el.gz" "emacs-lock.el.gz" "x-dnd.elc" "pcmpl-rpm.elc" "cdl.el.gz" "htmlfontify.el.gz" "bindings.el.gz" "ps-print.elc" "json.el.gz" "startup.elc" "pcmpl-unix.elc" "files-x.el.gz" "abbrev.el.gz" "battery.elc" "forms.el.gz" "info.el.gz" "t-mouse.el.gz" "edmacro.elc" "electric.el.gz" "button.el.gz" "minibuffer.elc" "frameset.el.gz" "time.elc" "dired-x.el.gz" "filecache.el.gz" "woman.elc" "shell.elc" "select.el.gz" "facemenu.elc" "loaddefs.el" "cus-theme.el.gz" "subdirs.el" "lpr.elc" "x-dnd.el.gz" "pcomplete.elc" "progmodes/" "char-fold.el.gz" "font-lock.el.gz" "leim/" "mouse-copy.el.gz" "ibuffer.elc" "autoarg.elc" "mb-depth.elc" "hex-util.el.gz" "info-xref.el.gz" "pcmpl-x.el.gz" "profiler.el.gz" "ps-mule.elc" "finder.el.gz" "mwheel.elc" "image-mode.elc" "array.el.gz" "mpc.elc" "cedet/" "tabify.elc" "ebuff-menu.el.gz" "array.elc" "epa.elc" "widget.el.gz" "help-at-pt.elc" "help.el.gz" "env.el.gz" "filenotify.el.gz" "speedbar.elc" "find-file.el.gz" "chistory.elc" "sort.el.gz" "hilit-chg.elc" "comint.elc" "help.elc" "finder-inf.el" "talk.el.gz" "ido.el.gz" "expand.el.gz" "cus-load.el" "misearch.elc" "ruler-mode.el.gz" "textmodes/" "url/" "time-stamp.elc" "ps-def.elc" "bookmark.el.gz" "ldefs-boot.el" "buff-menu.el.gz" "reposition.elc" "autoinsert.elc" "newcomment.elc" "ibuf-ext.elc" "server.elc" "fringe.el.gz" "loadhist.elc" "msb.elc" "rect.el.gz" "language/" "vt100-led.elc" "ansi-color.elc" "register.el.gz" "menu-bar.elc" "calculator.el.gz" "userlock.elc" "ibuf-ext.el.gz" "timezone.elc" "jka-compr.elc" "password-cache.elc" "faces.el.gz" "minibuf-eldef.el.gz" "dnd.el.gz" "../" "./")
+
+ ("/home/vitalya/Downloads/laff/" (22371 33490 499907 120000) "./" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/rooms/" (22363 42844 767892 663000) "./" "Ordinary.py" "__pycache__/" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/" (22368 60199 817070 573000) "objects/" "./" "parsers/" "start.py" "__pycache__/" "__init__.py" "../" "geometry/" "rooms/")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/geometry/" (22363 43898 408861 532000) "Line.py" "./" "PolygonalCurve.py" "Vector2.pyc" "__pycache__/" "Rectangle.py" "Point.py" "Vector2.py" "__init__.py" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/objects/" (22368 59811 682064 532000) "./" "Prop.py" "__pycache__/" "Actor.py" "__init__.py" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/" (22363 42585 786900 315000) ".git/" "./" "engine/" "junk" "LICENSE" ".gitignore" "game/" "README.md" "../" "junk.py")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/sprites/" (22362 20989 282840 410000) "World.py" "./" "Prop.py" "__pycache__/" "Actor.py" "__init__.py" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/game/" (22360 64266 741816 57000) "./" "Momo.txt" "../" "images/" "scene.txt")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/actor/" (22293 48810 567383 880000) "./" "__pycache__/" "parser.py" "__init__.py" "../")
+
+ ("/home/vitalya/Downloads/pyskool-1.2.1/pyskool/" (22354 26005 200942 881000) "stinkbomb.pyc" "cast.py" "skool.py" "lesson.pyc" "timetable.py" "snapshot.pyc" "skoolids.pyc" "timetable.pyc" "skooltaps.py" "floor.py" "image.py" "skool.pyc" "skoolsound.py" "pngwriter.pyc" "lines.py" "animatorystates.pyc" "barrier.pyc" "skoolids.py" "skoolimage.py" "image.pyc" "mutable.py" "sdini.pyc" "./" "plant.py" "input.pyc" "barrier.py" "location.pyc" "ai.pyc" "debug.pyc" "eric.py" "graphics.pyc" "character.pyc" "eric.pyc" "lines.pyc" "animal.py" "droppable.pyc" "items.py" "skoolimage.pyc" "graphics.py" "sound.pyc" "staircase.py" "keys.pyc" "droppable.py" "desklid.py" "skoolsound.pyc" "skoolbuilder.pyc" "water.pyc" "data/" "location.py" "__init__.pyc" "bike.pyc" "skoolini.pyc" "items.pyc" "btsini.pyc" "skoolbuilder.py" "room.py" "lesson.py" "skoolini.py" "btsini.py" "input.py" "bike.py" "iniparser.py" "water.py" "snapshot.py" "room.pyc" "pngwriter.py" "btstaps.pyc" "run.py" "floor.pyc" "pellet.py" "animal.pyc" "debug.py" "run.pyc" "cast.pyc" "pellet.pyc" "game.py" "scoreboard.py" "staircase.pyc" "mutable.pyc" "scoreboard.pyc" "stinkbomb.py" "btstaps.py" "__init__.py" "sdtaps.pyc" "sdtaps.py" "character.py" "plant.pyc" "../" "iniparser.pyc" "animatorystates.py" "keys.py" "skooltaps.pyc" "game.pyc" "ai.py" "sdini.py" "sound.py" "desklid.pyc")
+
+ ("/home/vitalya/Downloads/pyskool-1.2.1/" (22336 17453 0 0) "skool_daze_take_too.py" "./" "pyskool/" "docs/" "icon.png" "COPYING" "ezad_looks.py" "back_to_skool_daze.py" "sounds/" "setup.py" "xdg/" "man/" "back_to_skool.py" "skool_daze.py" "MANIFEST.in" "ini/" "../" "images/")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/abstract/" (22293 48585 471367 220000) "./" "__pycache__/" "parser.py" "__init__.py" "../")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/scene/" (22293 48571 3366 149000) "actor/" "abstract/" "./" "__init__.pyc" "__pycache__/" "item/" "parser.py" "parser.pyc" "__init__.py" "../" "prop/")
+
+ ("/home/vitalya/Projects/Der-leben-des-anderes/engine/parsers/" (22292 25892 937761 677000) "./" "__init__.pyc" "__pycache__/" "scene/" "__init__.py" "../")
+
+ ("/home/vitalya/Projects/Project-csv-lines/" (22138 14202 976956 715000) ".git/" "./" "main.js" "report/" "../")
+
+ ("/home/vitalya/Projects/" (22284 32942 52564 599000) "Project-alpha-remote/" "Project-alpha/" "Der-leben-des-anderes/" "Project-csv-lines/" "./" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="Indicator">
+    <option name="PositionText" value="true"/>
+    <option name="ShowTOCMarks" value="true"/>
+    <option name="Time" value="true"/>
+    <option name="Type" value="1"/>
+  </group>
+  <group name="InfoDialog">
+    <option name="Height" value="308"/>
+    <option name="SelectedTab" value="Common"/>
+    <option name="Width" value="655"/>
+  </group>
+  <group name="OpenFileDialog">
+    <option name="Directory" value="/home/vitalya/Calibre Library/Biertol&apos;t Briekht/Gospodin Puntila i iegho slugha Matti (75)"/>
+    <option name="Height" value="626"/>
+    <option name="Width" value="871"/>
+  </group>
+  <group name="Options">
+    <option name="WindowState" value="1"/>
+    <option name="XPosition" value="38"/>
+    <option name="YPosition" value="65"/>
+  </group>
+  <group name="OptionsDialog">
+    <option name="Height" value="488"/>
+    <option name="SelectedTab" value="Library"/>
+    <option name="Width" value="977"/>
+  </group>
+  <group name="Style">
+    <option name="Base:fontFamily" value="Comic Sans MS"/>
+    <option name="Base:fontSize" value="30"/>
+    <option name="UseCustomFonts" value="true"/>
+  </group>
+  <group name="ToggleButtonGroup">
+    <option name="booksOrder" value="byAuthor"/>
+  </group>
+</config>

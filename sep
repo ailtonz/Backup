@@ -1,0 +1,23 @@
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+fillsize=$(tput cols)
+
+if [ -z $1 ]; then
+	lines=$(tput lines)
+else
+	lines=$1
+fi
+	
+fill=""
+while [ "$fillsize" -gt "0" ]
+do
+	fill="-${fill}" # fill with underscores to work on 
+	let fillsize=${fillsize}-1
+done
+
+for i in $(seq 1 $lines); do
+	echo -e "${RED}${fill}${NC}"
+done
+
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="/home/vitalya/Downloads/epicench.1b.txt">
+    <option name="BreakType" value="6"/>
+    <option name="Initialized" value="true"/>
+  </group>
+</config>
